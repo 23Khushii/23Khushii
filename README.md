@@ -110,9 +110,6 @@ Working on applied AI/ML solutions involving:
 
 Exploring how temporal machine learning models can identify abnormal network behavior from multivariate 5G telemetry.
 
-🧠 **RAG Research Assistant**
-
-Building an independent RAG-based research assistant for document retrieval, processing, and question answering.
 
 ⚙️ **AI & Software Engineering Projects**
 
